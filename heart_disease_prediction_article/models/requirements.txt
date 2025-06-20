@@ -3,4 +3,3 @@ numpy
 ucimlrepo
 scikit-learn
 tensorflow
-seaborn
